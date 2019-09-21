@@ -1,0 +1,7 @@
+admin 		= 1
+production head = 2
+production ass  = 3
+production plan = 4
+division sup    = 5
+sales           = 6
+operator        = 7
